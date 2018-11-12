@@ -6,7 +6,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import spring.study.ja.hw1.service.AuditoriumManager;
 
 import java.io.File;
-
+// I don't remember how to make it work.  ((
 public class AuditoriumManagerTests {
     @Test
     public void testAuditoriumsInfoFile() {
